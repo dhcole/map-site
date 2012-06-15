@@ -5,7 +5,6 @@ published: false
 {% comment %}
 
 
-
 A sample post file. Requires title, permalink,  and layout attributes.
 Optional:
 map: 
